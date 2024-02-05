@@ -25,3 +25,4 @@ func _on_webxr_primary_changed(webxr_primary: int) -> void:
 					f.input_action = action_name
 				if "rotation_action" in f:
 					f.rotation_action = action_name
+
